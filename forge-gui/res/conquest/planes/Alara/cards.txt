@@ -22,10 +22,67 @@ Nefarox, Overlord of Grixis
 Servant of Nefarox
 Cathedral of War
 Meren of Clan Nel Toth
+Scourge of Nel Toth
 Jazal Goldmane
 Jhessian Thief
 Rhox Faithmender
 Rhox Pikemaster
-Scourge of Nel Toth
 Breya, Etherium Shaper
 Yidris, Maelstrom Wielder
+
+Fizik, Etherium Mechanic
+Qala, Ajani's Pridemate
+Ajani, Nacatl Pariah
+Runadi, Behemoth Caller
+Yurlok of Scorch Thrash
+Armix, Filigree Thrasher
+Marisi, Breaker of the Coil
+Kaalia, Zenith Seeker
+
+Wight of the Reliquary
+Ignoble Hierarch
+Bloodbraid Marauder
+Bloodbraid Challenger
+Ethersworn Sphinx
+Broodmate Tyrant
+Planar Nexus
+White Orchid Phantom
+Shardless Outlander
+Infested Thrinax
+Ajani Fells the Godsire
+Ajani's Influence
+Ajani's Sunstriker
+Etherium Pteramander
+Eviscerator's Insight
+Gluttonous Hellkite
+Riddle Gate Gargoyle
+Sphinx of the Revelation
+Breya's Apprentice
+Court Cleric
+Etherium Spinner
+Filigree Attendant
+Bone Shards
+Esper Sentinel
+Maelstrom Colossus
+Leadership Vacuum
+Dregscape Sliver
+Sigiled Sword of Valeron
+Sigil of Valor
+Veteran's Sidearm
+Rhox Maulers
+Naya Soulbeast
+Leonin Sanctifier
+Vectis Gloves
+Gallant Cavalry
+Swift Reckoning
+Qasali Slingers
+Ranger-Captain of Eos
+Restore
+Healer of the Pride
+Preyseizer Dragon
+Baleful Strix
+Valiant Knight
+Dragon's Rage Channeler
+A-Dragon's Rage Channeler
+Knight Exemplar
+Nacatl War-Pride
