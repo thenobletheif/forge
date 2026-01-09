@@ -46,3 +46,130 @@ Timberpack Wolf
 Undead Servant
 Unholy Hunger
 Vampire Nocturnus
+
+A-Blood Artist
+A-Sorin, Imperious Bloodlord
+A-Unholy Heat
+Alchemist's Vial
+Alena, Kessig Trapper
+Angel of Finality
+Angelic Aberration
+Angelic Reward
+Anje Falkenrath
+Anje's Ravager
+Archfiend of Spite
+Archfiend's Vessel
+Archpriest of Shadows
+Avacyn, Guardian Angel
+Battle at the Helvault
+Billowing Shriekmass
+Bishop of Wings
+Bloodcrazed Neonate
+Bloodsworn Steward
+Boneyard Wurm
+Burlfist Oak
+Confront the Assault
+Creeping Bloodsucker
+Curse of Fool's Wisdom
+Curse of the Bloody Tome
+Curse of Vitality
+Dance with Calamity
+Dauntless River Marshal
+Davriel, Soul Broker
+Davriel's Withering
+Desecrated Tomb
+Disciple of Perdition
+Drownyard Lurker
+Emrakul, the World Anew
+Enthralling Hold
+Epicure of Blood
+Ethereal Grasp
+Exsanguinator Cavalry
+Faithless Salvaging
+Feast on the Fallen
+Fetid Gargantua
+Force of Virtue
+Frantic Inventory
+Ghoulish Impetus
+Glimpse the Impossible
+Halana, Kessig Ranger
+Hallowed Priest
+Halo-Charged Skaab
+Hanged Executioner
+Hard Evidence
+Havoc Devils
+Hearts on Fire
+Herigast, Erupting Nullkite
+High-Society Hunter
+Horrific Assault
+Hushwing Gryff
+Inspiring Commander
+Katilda and Lier
+Knight's Pledge
+Kraum, Ludevic's Opus
+Laboratory Drudge
+Liesa, Shroud of Dusk
+Liliana, Heretical Healer // Liliana, Defiant Necromancer
+Liliana's Devotee
+Liliana's Standard Bearer
+Liliana's Steward
+Ludevic, Necro-Alchemist
+Manor Guardian
+Markov Baron
+Mob
+Moderation
+Mutated Cultist
+name
+Natural Reclamation
+New Blood
+Nightpack Ambusher
+Norn's Inquisitor
+Obsessive Stitcher
+Open the Graves
+Ozox, the Clattering King
+Ransack the Lab
+Remorseful Cleric
+Reprobation
+Roaming Ghostlight
+Saint Traft and Rem Karolus
+Sanguine Indulgence
+Savage Gorger
+Scaretiller
+Scuttletide
+Search the Premises
+Shacklegeist
+Shifting Woodland
+Shilgengar, Sire of Famine
+Shrine Keeper
+Sigarda, Font of Blessings
+Silversmote Ghoul
+Six
+Snapping Voidcraw
+Sorin of House Markov // Sorin, Ravenous Neonate
+Sorin, Imperious Bloodlord
+Sorin, Vampire Lord
+Soul-Shackled Zombie
+Sower of Chaos
+Sowing Mycospawn
+Steadfast Sentry
+Stitcher's Supplier
+Tactical Advantage
+Tamiyo Meets the Story Circle
+Thalia and The Gitrog Monster
+Thalia's Geistcaller
+The Creation of Avacyn
+Thraben Charm
+Thraben Watcher
+Tragic Banshee
+Two-Headed Zombie
+Unholy Heat
+Vampire Neonate
+Vampire of the Dire Moon
+Vermin Gorger
+Vile Rebirth
+Village Rites
+Voldaren Thrillseeker
+Vronos, Masked Inquisitor
+Warped Tusker
+Wildfire Devils
+Witch Enchanter // Witch-Blessed Meadow
